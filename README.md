@@ -2,13 +2,29 @@
 A Student registration manager using SqLite DB with full responsive design
 
 ## Screenshots
-<img src="/screenshots/Screenshot_01.png" width="300"/>
-<img src="/screenshots/Screenshot_02.png" width="300"/>
-<img src="/screenshots/Screenshot_03.png" width="300"/>
-<img src="/screenshots/Screenshot_04.png" width="300"/>
-<img src="/screenshots/Screenshot_05.png" width="300"/>
-<img src="/screenshots/Screenshot_06.png" width="300"/>
-<img src="/screenshots/Screenshot_06.png" width="300"/>
+
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th></th> 
+    <th></th>
+  </tr>
+  <tr>
+    <td><img src="/screenshots/Screenshot_01.png" width="300"/></td>
+    <td><img src="/screenshots/Screenshot_04.png" width="300"/></td>
+    <td><img src="/screenshots/Screenshot_05.png" width="300"/></td> 
+  </tr>
+    <tr>
+    <td></td>
+    <td></td> 
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="/screenshots/Screenshot_02.png" width="300"/></td> 
+    <td><img src="/screenshots/Screenshot_03.png" width="300"/></td>
+    <td><img src="/screenshots/Screenshot_06.png" width="300"/></td>
+  </tr>
+</table>
 
 ## I was given to develop
 
